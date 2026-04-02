@@ -37,13 +37,13 @@ dependencies:
   cupertino_icons: ^1.0.8
   google_fonts: ^8.0.1
   http: ^1.6.0
+  settings_ui: ^2.0.2
   sqflite_common_ffi_web:
   sqflite:
   sqflite_common_ffi:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  settings_ui: ^2.0.2
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
   # activated in the `analysis_options.yaml` file located at the root of your
